@@ -6,7 +6,7 @@ DISCORD_TOKEN = ''
 CHANNEL_ID = ''
 
 # 定型の応答メッセージ
-RESPONSE_MESSAGE = "ぴょぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉ！！"
+RESPONSE_MESSAGE = "ぴょおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお"
 
 # Discord APIのエンドポイント
 DISCORD_API_URL = 'https://discord.com/api/v9'
